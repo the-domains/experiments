@@ -1,6 +1,6 @@
 name: experiments
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.89764
 typography_spectrum: 0.06912
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#453924'
     - '#cfc7b3'
     - '#917f5c'
-  brandStrength: 0
-  lightness: 0.6875
+  brandStrength: 0.1875
+  lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.9553932950366288
 purpose: []
